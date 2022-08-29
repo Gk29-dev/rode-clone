@@ -40,7 +40,7 @@
 
 ***
 
-### Checkout the webiste : [Click Here](https://the-shopify.netlify.app/)
+### Checkout the webiste : [Click Here](https://the-rode.netlify.app/)
 
 ***
 <br>
